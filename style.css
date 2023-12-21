@@ -1,0 +1,221 @@
+.images{
+   
+   display: flex;
+text-align: center;
+margin-top: 100px;
+justify-content: space-around;
+}
+img{
+    width: 155px;
+  height: 155px;
+  padding: 5px;
+  
+ }
+ .tele{
+    margin-top: 155px;
+    width: 200px;
+    height: 200px;
+ }
+ .caption{
+    margin-top: -160px;
+    font-size: 10px;
+    color: white;
+    
+ }
+ /* .caption h4{
+    margin-left: -60px;
+    margin-top: 50px;
+ }
+ .caption h3{
+    margin-top: 20px;
+    font-size: 10px;
+ }
+ .caption P2{
+    margin-top: 50px;
+ } */
+ .tous {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 10px;
+
+ }
+ .group{
+    background-color:#3D9BA2;
+    color: white;
+    width: 190px;
+    border-radius: 5px;
+    
+    
+ }
+ .tous img{
+    width: 20px;
+    height: 20px; 
+    text-align: center; 
+ }
+ .paragraphe{
+     display: flex; 
+    text-align: center;
+    font-size: 10px;
+justify-content: space-around; 
+padding: 20px;
+    
+ }
+.paragraphe img{
+    width: 50px;
+    height: 50px;
+    margin-top: -25px; 
+
+}
+.client{
+    background-color: whitesmoke;
+    font-size: 10px;
+    margin-top: 50px;
+}
+.nom{
+   display: flex;
+   text-align: center;
+   justify-content: space-around;
+   font-size: 10px;
+}
+.paix img{
+   background-color: #3D9BA2;
+   
+   border-radius: 5px
+  
+   
+}
+.plus{
+   background-color: whitesmoke;
+  height: 100px;
+  text-align: center;
+}
+span{
+   color: #3D9BA2;
+   border-radius: 5px;
+   }
+   nav{
+      text-align: center;
+      display: flex;
+      justify-content: space-around;
+      margin-top: 15px;
+   }
+   .menu {
+      float: right; 
+      display: flex;
+      list-style-type: none;
+      
+  }
+  a{
+      display:flex;    
+        min-width: 80px; 
+      text-align: center;
+      text-decoration: none;
+      color:  #3D9BA2;
+      ;
+      justify-content: space-around;
+
+  } 
+  .contact{
+   margin-left: -50px;
+  }
+  .contact h2{
+   text-align: center;
+   justify-content: baseline;
+  } 
+  .globe {
+    background-color:whitesmoke;  
+      
+  }
+  .globe p{
+   margin-left: 70px;
+   background-color: whitesmoke;
+  }
+  .globe img{
+   height: 70px;
+   width: 200px;
+  }
+  .globe h2{
+   margin-left: 460px;
+   margin-top: -100px;
+   
+  }
+  .page{
+   margin-left: 390px;
+   width: 480px;
+height: 48px;
+top: 40px;
+border-radius: 5px
+
+  }
+  .page h3{
+   margin-left: 390px;
+   margin-top: -50px;
+   background-color:  #F6BE56;
+   width: 150px;
+   text-align: center;
+   height: 30px; 
+   font-size: 20px;
+
+  }
+  .page p{
+   background-color: white;
+   height: 40px;
+   top: 10px;
+  }
+  .icone{
+   margin-left: 70px;
+   justify-content: space-around;
+   color:  #007896;
+
+  }
+  
+  
+  .icone1 i{
+   border: solid 1px;
+   color: #007896;
+   text-align: cente;
+   width: 15px;
+height: 15px;
+text-align: center;
+
+
+  }
+  /* .icone1{
+   justify-content: space-around;
+   text-align: center;
+   
+display: flex;
+  } */
+  
+  
+  
+  .icon img{
+   height: 13px;
+   margin-left: 66px;
+   width: 140px;
+  }
+  .icone2 img{
+   height: 15px;
+   width: 60px;
+  }
+.icone3 img{
+   height: 30px;
+   width: 100px;
+   background-color: whitesmoke;
+   
+}
+.sall{
+  margin-left: 390px;
+
+}
+.bal img{
+   height: 200px;
+   width: 500px;
+   margin-left: 50px;
+}
+.foot{
+   display: flex;
+   text-decoration: underline;
+
+}
